@@ -16,3 +16,16 @@ def generateMonthlyPathList(year, month, day):
     return lista_dias
 
 generateMonthlyPathList("2021", "07", "11")
+"""
+['http://challenge_path_1/2021/07/01/',
+ 'http://challenge_path_1/2021/07/02/',
+ 'http://challenge_path_1/2021/07/03/',
+ 'http://challenge_path_1/2021/07/04/',
+ 'http://challenge_path_1/2021/07/05/',
+ 'http://challenge_path_1/2021/07/06/',
+ 'http://challenge_path_1/2021/07/07/',
+ 'http://challenge_path_1/2021/07/08/',
+ 'http://challenge_path_1/2021/07/09/',
+ 'http://challenge_path_1/2021/07/10/',
+ 'http://challenge_path_1/2021/07/11/']
+"""
