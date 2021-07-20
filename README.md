@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @GabrielEchevarria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning all of Big Data and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Scripts y Jupiter Notebook para Desafío Nubimetrics para el área de datos perfiles Semi Senior
+Gabriel Echevarria
+gaechevarria@gmail.com
 
 <!---
-GabrielEchevarria/GabrielEchevarria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+GabrielEchevarria/Challenge es un repositorio para este Desafio en especial.
 --->
